@@ -4,7 +4,7 @@
 
 ## Descrição do projeto
 
-Projeto de uma To Do List feito com HTML, BootStrap e TypeScript.. :satisfied:
+Projeto de uma To Do List feito com HTML, BootStrap e JavaScript.. :satisfied:
 
 ## 🧑‍💻 Desenvolvedor do Projeto
 
